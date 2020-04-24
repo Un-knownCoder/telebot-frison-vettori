@@ -1,0 +1,7 @@
+00001#Vettori#Massimo#Monselice
+00002#Mion#Matteo#IIS Euganeo
+00003#Faedo#Giovanni#Pojana
+00004#Zattin#Marco#Este
+00005#Coradin#Emanuele#Borgo Veneto
+00006#Dian#Mattia#Montagnana
+00007#Frison#Eric#Montagnana
